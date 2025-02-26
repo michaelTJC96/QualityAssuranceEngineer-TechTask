@@ -93,6 +93,6 @@ During testing, the following issues were identified:
    ```
 5. View the report:
    ```sh
-   open target/cucumber-html-reports/index.html
+   open target/cucumber-reports/cucumber-html-report.html
    ```
 
